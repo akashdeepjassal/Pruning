@@ -1,6 +1,4 @@
-# Pruning Assignment
-
-# Model Prunning
+# Model Prunning Assignment
 
 # What is Prunning
 
