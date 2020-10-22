@@ -18,3 +18,4 @@ Pruning from Scratch is a popular method and is implemeted in the notebook. A lo
 * https://jacobgil.github.io/deeplearning/pruning-deep-learning
 * https://heartbeat.fritz.ai/research-guide-pruning-techniques-for-neural-networks-d9b8440ab10d#:~:text=Pruning%20is%20a%20technique%20in,values%20in%20the%20weight%20tensor.
 
+#### More Changes Coming
